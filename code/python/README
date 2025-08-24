@@ -1,0 +1,11 @@
+# Python
+
+## Dataset
+Dataset yang diberikan diperiksa terlebih dahulu apakah terdapat data duplikat ataupun nilai kosong.  
+Selain itu, data juga ditransformasi agar lebih sesuai sebelum diolah dengan SQL.
+
+## Link Colab
+Notebook Python terbaru dapat diakses dan dijalankan di Google Colab:  
+[Open in Colab](https://colab.research.google.com/drive/1NHatL5YmTrNrbmpbEghSasJOCvcgfHu0?usp=sharing)
+
+> Catatan: Notebook di Colab akan diperbarui secara berkala.

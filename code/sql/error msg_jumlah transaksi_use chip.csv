@@ -1,0 +1,25 @@
+use_chip,error_msg,jumlah_transaksi,jumlah_error
+"Online Transaction","Insufficient Balance",150043.23,1972
+"Online Transaction","Bad Card Number",73170.68,1247
+"Online Transaction","Bad CVV",60540.16,1020
+"Online Transaction","Bad Expiration",58541.16,978
+"Online Transaction","Technical Glitch",32916.65,525
+"Online Transaction","Bad Card Number,Insufficient Balance",1915.07,18
+"Online Transaction","Bad Card Number,Bad CVV",293.81,6
+"Online Transaction","Bad Card Number,Bad Expiration",228.35,5
+"Online Transaction","Bad CVV,Insufficient Balance",294.48,5
+"Online Transaction","Bad Card Number,Technical Glitch",196.36,4
+"Online Transaction","Bad Expiration,Insufficient Balance",531.78,4
+"Online Transaction","Bad Expiration,Technical Glitch",138.55,4
+"Online Transaction","Bad Expiration,Bad CVV",361.55,3
+"Online Transaction","Insufficient Balance,Technical Glitch",521.95,3
+"Online Transaction","Bad CVV,Technical Glitch",646.52,2
+"Swipe Transaction","Insufficient Balance",1425031.24,20935
+"Swipe Transaction","Bad PIN",229861.32,5622
+"Swipe Transaction","Technical Glitch",180297.30,4024
+"Swipe Transaction","Bad Zipcode",4366.97,195
+"Swipe Transaction","Bad PIN,Insufficient Balance",3686.05,56
+"Swipe Transaction","Insufficient Balance,Technical Glitch",3082.40,36
+"Swipe Transaction","Bad PIN,Technical Glitch",3112.00,12
+"Swipe Transaction","Bad Zipcode,Insufficient Balance",179.64,2
+"Swipe Transaction","Bad Card Number,Insufficient Balance",-197.00,1

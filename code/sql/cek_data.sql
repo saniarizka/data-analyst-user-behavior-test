@@ -1,4 +1,4 @@
--- caek tabel transaksi
+-- cek tabel transaksi
 SELECT COUNT(distinct client_id) FROM transaction;
 -- memeriksa awal-akhir periode transaksi
 SELECT min(date_tr) AS awal_periode, max(date_tr) AS akhir_periode FROM transaction;

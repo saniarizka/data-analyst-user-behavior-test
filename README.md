@@ -2,13 +2,13 @@
 Analisis perilaku pengguna untuk technical test Data Analyst, meliputi query SQL, skrip Python, dan visualisasi.
 
 ## Deskripsi
-Repositori ini berisi dokumentasi, kode, dan hasil untuk technical test Data Analyst. Dataset yang digunakan adalah `users_data`, `transactions_data`, dan `cards_data`. Analisis dilakukan untuk memperoleh insight yang berguna melalui beberapa bagian, antara lain query SQL, pembuatan dashboard, dan presentasi.
+Repositori ini berisi dokumentasi, kode, dan hasil analisis. Dataset yang digunakan adalah `users_data`, `transactions_data`, dan `cards_data`. Analisis dilakukan untuk memperoleh insight yang berguna melalui query SQL, Python, dan pembuatan dashboard.
 
 ## Struktur Repository
-- [code/](code/) : SQL & Python
-  - [python/](code/python/) : Preprocessing data
+- [code/](code) : SQL & Python
+  - [python/](code/python) : Preprocessing data
   - [sql/](code/sql/) : Query SQL untuk analisis
-- [presentation/](presentation/) : File presentasi yang merangkum analisis
+- [presentation/](presentation) : File presentasi yang merangkum analisis
 - [README.md](README.md) : Penjelasan repo & cara menjalankan
 
 ## Dataset
